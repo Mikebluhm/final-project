@@ -1,0 +1,10 @@
+form {
+    padding: 2rem 2.5 rem;
+    background-color: aqua;
+}
+
+form .form_group {
+    background-color: lawngreen;
+    padding: 1rem;
+    margin: 5rem 0;
+}
